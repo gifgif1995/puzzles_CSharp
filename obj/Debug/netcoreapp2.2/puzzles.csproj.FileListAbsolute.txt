@@ -1,0 +1,11 @@
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/bin/Debug/netcoreapp2.2/puzzles.deps.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.dev.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/bin/Debug/netcoreapp2.2/puzzles.dll
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/bin/Debug/netcoreapp2.2/puzzles.pdb
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/obj/Debug/netcoreapp2.2/puzzles.csprojAssemblyReference.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/obj/Debug/netcoreapp2.2/puzzles.csproj.CoreCompileInputs.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfoInputs.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfo.cs
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/obj/Debug/netcoreapp2.2/puzzles.dll
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/puzzles/obj/Debug/netcoreapp2.2/puzzles.pdb
